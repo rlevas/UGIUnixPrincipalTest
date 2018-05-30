@@ -12,7 +12,11 @@ The default logging level is set to **DEBUG** and the logging level of the class
 
 ### Execute
   
-    ${JAVA_HOME}/bin/java -jar UGIUnixPrincipalTest-1.0.jar
-    
+    ${JAVA_HOME}/bin/java -jar UGIUnixPrincipalTest-assembly.jar
+
+##### Example 
+        
+        /usr/jdk64/jdk1.8.0_112/bin/java -jar ./UGIUnixPrincipalTest-assembly.jar
+
     
   

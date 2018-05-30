@@ -43,6 +43,7 @@
               <mainClass>levas.ugiunixprincipaltest.Main</mainClass>
             </manifest>
           </archive>
+          <finalName>UGIUnixPrincipalTest-assembly</finalName>
           <appendAssemblyId>false</appendAssemblyId>
         </configuration>
         <executions>

@@ -14,6 +14,7 @@ public class Main {
     UserGroupInformation user = UserGroupInformation.getCurrentUser();
 
     if (user != null) {
+      System.out.print("Authenticated user: ");
       System.out.println(user.getUserName());
     } else {
       System.out.println("UGI is null");
