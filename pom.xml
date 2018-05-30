@@ -40,7 +40,7 @@
           </descriptorRefs>
           <archive>
             <manifest>
-              <mainClass>levas.Main</mainClass>
+              <mainClass>levas.ugiunixprincipaltest.Main</mainClass>
             </manifest>
           </archive>
           <appendAssemblyId>false</appendAssemblyId>
